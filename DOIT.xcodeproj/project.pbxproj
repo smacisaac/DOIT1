@@ -13,6 +13,7 @@
 		BDB377D61E858D590043B413 /* DOIT.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BDB377D41E858D590043B413 /* DOIT.xcdatamodeld */; };
 		BDB377D81E858D590043B413 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDB377D71E858D590043B413 /* Assets.xcassets */; };
 		BDB377DB1E858D590043B413 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDB377D91E858D590043B413 /* LaunchScreen.storyboard */; };
+		BDB377E31E8591C20043B413 /* task.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB377E21E8591C20043B413 /* task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BDB377D71E858D590043B413 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDB377DA1E858D590043B413 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDB377DC1E858D590043B413 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDB377E21E8591C20043B413 /* task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BDB377CD1E858D590043B413 /* AppDelegate.swift */,
 				BDB377CF1E858D590043B413 /* ViewController.swift */,
 				BDB377D11E858D590043B413 /* Main.storyboard */,
+				BDB377E21E8591C20043B413 /* task.swift */,
 				BDB377D71E858D590043B413 /* Assets.xcassets */,
 				BDB377D91E858D590043B413 /* LaunchScreen.storyboard */,
 				BDB377DC1E858D590043B413 /* Info.plist */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDB377E31E8591C20043B413 /* task.swift in Sources */,
 				BDB377D61E858D590043B413 /* DOIT.xcdatamodeld in Sources */,
 				BDB377D01E858D590043B413 /* ViewController.swift in Sources */,
 				BDB377CE1E858D590043B413 /* AppDelegate.swift in Sources */,
